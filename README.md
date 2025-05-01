@@ -1,7 +1,7 @@
 <img height="300" width="1200" src="https://www.thinktank.de/wp-content/uploads/2022/12/Tests-in-Softwareentwicklung.webp">
  ---
 
-# 💻 **Hi, I'm [SAGAR BANKAR]** 👋  
+# 💻 **Hi, I'm [SUJATA KATORE]** 👋  
 
 🚀 **Software Test Engineer** | 🔍 Passionate about Quality Assurance | 🛠️ **Manual & Automation Testing**  
 
