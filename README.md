@@ -19,7 +19,7 @@
 📌 **I am passionate about** ensuring software reliability, writing efficient test scripts.  
 
 📫 **Reach Me At:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)   !-->
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sujatakatore)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](gmailto:suja.katore@gmail.com)  
 
@@ -52,9 +52,9 @@
 🔹 **[Project 2 - API Testing with Postman](https://github.com/your-username/project2)**  
 📌 Automated API testing suite using Postman and Newman.  
 
-🔹 **[Project 3 - CI/CD Pipeline](https://github.com/your-username/project3)**  
+<!--🔹 **[Project 3 - CI/CD Pipeline](https://github.com/your-username/project3)**  
 📌 End-to-end CI/CD setup using Jenkins and GitHub Actions.  
-
+!-->
 ---
 
 💡 **Let’s connect and build something amazing!** 🚀  
